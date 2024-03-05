@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Java Distributed Programming and Web Sockets.**
 
-- 👯 I’m looking to collaborate on open source projects.
+- 👯 I’m looking to collaborate on **open source projects.**
 
-- 🤝 I’m looking for help with learning web 3.0 and blockchain related technologies.
+- 🤝 I’m looking for help with learning **web 3.0 and blockchain related technologies.**
 
 - 👨‍💻 All of my projects are available at my [Github Profile](https://www.github.com/karthikch25)
 
