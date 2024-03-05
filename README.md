@@ -5,13 +5,15 @@
 
 - 🔭 I’m currently working on projects related to **Backend Distributed Systems, Web 3.0 etc.**
 
+- 🎯 Software Development Intern at Amazon Web Services ![aws](https://github.com/karthikch25/karthikch25/assets/54052517/f25e556c-4ecf-4f23-986b-420247ba7861)
+
+- 👨‍💻 Software Developer at Hexagon
+
 - 🌱 I’m currently learning **Java Distributed Programming and Web Sockets.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
 - 🤝 I’m looking for help with learning **Web 3.0 and Blockchain related technologies.**
-
-- 👨‍💻 All of my projects are available at my [Github Profile](https://www.github.com/karthikch25)
 
 - 💬 Ask me about **JavaScript, React Native and Python.**
 
