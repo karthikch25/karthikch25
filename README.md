@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikch25&label=Profile%20views&color=0e75b6&style=flat" alt="karthikch25" /> </p>
 
-- 🔭 I’m currently working on [projects related to Backend Distributed Systems, Web 3.0 etc.](https://www.github.com/karthikch25)
+- 🔭 I’m currently working on **projects related to Backend Distributed Systems, Web 3.0 etc.**
+
+- 🎯 Software Development Intern at **Amazon Inc.** ![aws](https://github.com/karthikch25/karthikch25/assets/54052517/f25e556c-4ecf-4f23-986b-420247ba7861).
+
+- 👨‍💻 Ex-Software Developer at **Hexagon Inc.**
 
 - 🌱 I’m currently learning **Java Distributed Programming and Web Sockets.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
 - 🤝 I’m looking for help with learning **web 3.0 and blockchain related technologies.**
-
-- 👨‍💻 All of my projects are available at my [Github Profile](https://www.github.com/karthikch25)
 
 - 💬 Ask me about **JavaScript, React Native and Python.**
 
