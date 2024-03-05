@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **Java Distributed Programming and Web Sockets.**
 
-- 👯 I’m looking to collaborate on [open source projects.](https://www.github.com/karthikch25)
+- 👯 I’m looking to collaborate on open source projects.
 
-- 🤝 I’m looking for help with [learning web 3.0 and blockchain related technologies.](https://www.github.com/karthikch25)
+- 🤝 I’m looking for help with learning web 3.0 and blockchain related technologies.
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/karthikch25](https://www.github.com/karthikch25)
+- 👨‍💻 All of my projects are available at my [Github Profile](https://www.github.com/karthikch25)
 
-- 📝 I regularly write articles on [https://www.github.com/karthikch25](https://www.github.com/karthikch25)
-
-- 💬 Ask me about **JavaScript, React Native, Python.**
+- 💬 Ask me about **JavaScript, React Native and Python.**
 
 - 📫 How to reach me **chalamakusa@gmail.com**
 
