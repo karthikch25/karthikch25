@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikch25&show_icons=true&locale=en" alt="karthikch25" /></p>
 
-<p>[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/ktkch25?theme=dark&font=Tauri)
