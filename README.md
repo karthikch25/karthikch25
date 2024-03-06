@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on projects related to **Backend Distributed Systems, Web 3.0 etc.**
 
-- 🎯 Software Development Intern at Amazon Web Services ![aws](https://github.com/karthikch25/karthikch25/assets/54052517/f25e556c-4ecf-4f23-986b-420247ba7861)
+- 🎯 Software Development Intern at Amazon ![amazon](https://github.com/karthikch25/karthikch25/assets/54052517/43d19bba-8481-4eb6-93b0-8641b789455f).
 
 - 👨‍💻 Software Developer at Hexagon
 
@@ -38,3 +38,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikch25&show_icons=true&locale=en&layout=compact" alt="karthikch25" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikch25&show_icons=true&locale=en" alt="karthikch25" /></p>
+
+<p>![Leetcode Stats](https://leetcard.jacoblin.cool/ktkch25?theme=dark)</p>
