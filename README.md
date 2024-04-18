@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikch25&label=Profile%20views&color=0e75b6&style=flat" alt="karthikch25" /> </p>
 
-My Portfolio - https://startling-fairy-2e862d.netlify.app/
+- ⚡ My Portfolio - https://karthikch.netlify.app/
 
 - 🔭 I’m currently working on projects related to **Distributed Systems, Web 3.0 etc.**
 
