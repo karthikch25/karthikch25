@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">Aspiring student who enjoys coding, seeking a challenging position in software engineering.</h3>
+<h3 align="center">Full-stack developer who enjoys coding, seeking a challenging position in software engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikch25&label=Profile%20views&color=0e75b6&style=flat" alt="karthikch25" /> </p>
 
